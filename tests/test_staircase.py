@@ -11,3 +11,7 @@ def test_staircase_n_2_returns_2():
 
 def test_staircase_n_3_returns_4():
     assert staircase(3) == 4
+
+
+def test_staircase_n_4_returns_7():
+    assert staircase(4) == 7
